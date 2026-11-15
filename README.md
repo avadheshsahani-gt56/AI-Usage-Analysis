@@ -36,9 +36,9 @@ This project analyzes AI usage patterns among 141 users across 12 countries. It 
 ## 🔄 Project Workflow
 
 1. **Data Cleaning:** Cleaned and preprocessed the dataset using Python and Pandas.
-2. **Exploratory Data Analysis (EDA):** Explored data, identified patterns, and generated insights using Matplotlib.
-3. **Dashboard Development:** Created an interactive dashboard using Power BI.
-4. **Project Reporting:** Prepared the final project report with key findings, insights, and recommendations.
+2. **Exploratory Data Analysis (EDA):** Performed data analysis, identified trends and patterns, and created visualizations using Python, Pandas, and Matplotlib.
+3. **Dashboard Development:** Designed an interactive Power BI dashboard to present key insights and findings.
+4. **Project Reporting:** Prepared a detailed project report highlighting the analysis, findings, and recommendations.
 
 ## 🧹 Data Cleaning
 
@@ -60,7 +60,7 @@ This project analyzes AI usage patterns among 141 users across 12 countries. It 
 
 ## 📈 Power BI Dashboard
 
-The interactive Power BI dashboard includes:
+The interactive dashboard includes:
 
 - Total Users and Average Daily Usage KPI cards.
 - AI Tool and Country filters.
@@ -72,7 +72,7 @@ The interactive Power BI dashboard includes:
 
 ### Dashboard Preview
 
-![Uploading AI usage.png…]()
+<img width="1600" height="900" alt="AI usage" src="https://github.com/user-attachments/assets/79e9d8c9-75b6-4add-abbb-47c0d1e6b82d" />
 
 
 ## 📁 Project Structure
@@ -84,17 +84,13 @@ AI-Usage-Analysis/
 │
 ├── 01_Dataset/
 │   ├── AI_Usage_trend.csv
-│   └── AI_Usage_Cleaned.csv
 │
-├── 02_Python_Analysis/
+├── 02_Python_Analysis/ and cleaning
 │   └── AI_Usage_Analysis.ipynb
 │
-├── 04_Power_BI_Dashboard/
+├── 03_Power_BI_Dashboard/
 │   ├── Dashboard.png
 │   └── AI_Usage_Analysis.pbix
 │
-├── 05_Project_Report/
-│   └── AI_Usage_Analysis_Improved_Report.pdf
-│
-└── 06_Presentation/
-    └── AI_Usage_Analysis_Presentation.pptx
+└── 04_Project_Report/
+    └── AI_Usage_Analysis_Report.pdf
