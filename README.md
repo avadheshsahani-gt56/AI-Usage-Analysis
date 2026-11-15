@@ -72,7 +72,8 @@ The interactive Power BI dashboard includes:
 
 ### Dashboard Preview
 
-C:\Users\pc\Downloads\AI_usage_analysis.png
+![Uploading AI usage.png…]()
+
 
 ## 📁 Project Structure
 
